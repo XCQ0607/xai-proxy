@@ -31,7 +31,7 @@
         {
             "src": "/xai/v1/(.*)",
             "dest": "https://api.x.ai/v1/$1"
-        }
+        },
         {
             "src": "/mistral/v1/(.*)",
             "dest": "https://api.mistral.ai/v1/$1"
